@@ -1,0 +1,8 @@
+environment:
+  name: environment_env_4b82
+  identifier: environment_env_4b82
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: Harness_CI_CD_Zero_to_Hero
